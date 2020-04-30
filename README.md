@@ -1,6 +1,16 @@
 # violet-evergarden-font
 在此提供[汐月Jxpoem](https://space.bilibili.com/7485843)自制的《紫罗兰永恒花园》字体下载
 
+字体包含了以下字符：
+```
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+abcdefghijklmnopqrstuvwxyz
+
+, . ! @ # $ % & * + / ¼ ½ ¾ : ; ' " ? 
+
+```
+
   <br />
   
 ## 来源/鸣谢
