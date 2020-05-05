@@ -7,8 +7,15 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 abcdefghijklmnopqrstuvwxyz
 
-, . ! @ # $ % & * + / ¼ ½ ¾ : ; ' " ? 
+1234567890
 
+```
+
+![image](image/demo.png)
+
+以下是原作中出现但本字体当前版本未收录的字符：
+```
+, . ! @ # $ % & * + / ¼ ½ ¾ : ; ' " ? 
 ```
 
   <br />
